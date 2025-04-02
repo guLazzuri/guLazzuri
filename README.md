@@ -2,7 +2,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulazzuri&langs_count=8&theme=dark&bg_color=00000000&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulazzuri&layout=compact&langs_count=8&theme=dark&bg_color=00000000&border_radius=10&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"><br>
   <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
