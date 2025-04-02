@@ -17,7 +17,8 @@
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-##
+
+
 
 <div> 
   <a href="https://www.youtube.com/channel/seucanal" target="_blank">
