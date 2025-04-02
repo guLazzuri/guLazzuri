@@ -1,4 +1,4 @@
-##  Eu sou a Gustavo Lazzuri, Analista e Desenvolvedor de Sistema!
+##  Eu sou o Gustavo Lazzuri, Analista e Desenvolvedor de Sistema!
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
