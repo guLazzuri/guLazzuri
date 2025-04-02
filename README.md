@@ -12,6 +12,10 @@
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulazzuri&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
   
   ##
  
