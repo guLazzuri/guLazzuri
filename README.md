@@ -27,8 +27,12 @@
   <!-- Banco de Dados -->
   <img alt="sql" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-  <!-- Machine Learning -->
-  <img alt="machinelearning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <!-- IA -->
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Visão Computacional" src="https://img.shields.io/badge/Visão%20Computacional-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img alt="Rede Neural" src="https://img.shields.io/badge/Rede%20Neural-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
 
 </div>
 
