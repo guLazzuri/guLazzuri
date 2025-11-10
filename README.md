@@ -187,26 +187,6 @@ Sou um **desenvolvedor FullStack** especializado em criar soluções inovadoras 
 ---
 
 
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gulazzuri/Gulazzuri/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gulazzuri/Gulazzuri/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gulazzuri/Gulazzuri/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer" width="100%"/>
-
-<br/>
-
 **⭐ From [Gulazzuri](https://github.com/Gulazzuri) with 💙**
 
 <sub>Transformando ideias em código desde 20XX</sub>
