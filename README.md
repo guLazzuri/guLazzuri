@@ -28,9 +28,9 @@
 Sou um **desenvolvedor FullStack** especializado em criar soluções inovadoras que combinam desenvolvimento web moderno com inteligência artificial. 
 
 🎯 **Foco em:**
-- Desenvolvimento Web Escalável
 - Inteligência Artificial & ML
 - Arquitetura de Sistemas
+- Desenvolvimento Web Escalável
 - Experiência do Usuário
 
 </td>
@@ -48,12 +48,12 @@ Sou um **desenvolvedor FullStack** especializado em criar soluções inovadoras 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gulazzuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gulazzuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gulazzuri&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulazzuri&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulazzuri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&card_width=800&hide=html,css,objective-c++,ruby&exclude_repo=repo1,repo2)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -106,22 +106,22 @@ Sou um **desenvolvedor FullStack** especializado em criar soluções inovadoras 
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br/>
+  <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="80"><br/>
   <b>Machine Learning</b><br/>
   <sub>Modelos preditivos e análise de dados</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="80"><br/>
   <b>Deep Learning</b><br/>
   <sub>Redes neurais complexas</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="80"><br/>
   <b>Visão Computacional</b><br/>
   <sub>Processamento de imagens</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="80"><br/>
   <b>FullStack Development</b><br/>
   <sub>Front + Back + DevOps</sub>
 </td>
