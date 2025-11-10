@@ -54,13 +54,11 @@ Sou um **desenvolvedor FullStack** especializado em criar soluções inovadoras 
   <img src="https://cdn-icons-png.flaticon.com/512/3976/3976625.png" width="80"><br/>
   <b>🎓 Análise e Desenvolvimento de Sistemas</b><br/>
   <sub>FIAP - Faculdade de Informática e Administração Paulista</sub><br/>
-  <sub>⭐ Formação em tecnologia e desenvolvimento</sub>
 </td>
 <td align="center" width="50%">
   <img src="https://cdn-icons-png.flaticon.com/512/3976/3976645.png" width="80"><br/>
   <b>📚 Técnico em Finanças</b><br/>
   <sub>ETEC Professor Camargo Aranha</sub><br/>
-  <sub>💼 Base sólida em gestão financeira</sub>
 </td>
 </tr>
 </table>
