@@ -28,9 +28,9 @@
 Sou um **desenvolvedor FullStack** especializado em criar soluções inovadoras que combinam desenvolvimento web moderno com inteligência artificial. 
 
 🎯 **Foco em:**
+- Desenvolvimento Web Escalável
 - Inteligência Artificial & ML
 - Arquitetura de Sistemas
-- Desenvolvimento Web Escalável
 - Experiência do Usuário
 
 </td>
@@ -44,16 +44,36 @@ Sou um **desenvolvedor FullStack** especializado em criar soluções inovadoras 
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Formação Acadêmica
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gulazzuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gulazzuri&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://cdn-icons-png.flaticon.com/512/3976/3976625.png" width="80"><br/>
+  <b>🎓 Análise e Desenvolvimento de Sistemas</b><br/>
+  <sub>FIAP - Faculdade de Informática e Administração Paulista</sub><br/>
+  <sub>⭐ Formação em tecnologia e desenvolvimento</sub>
+</td>
+<td align="center" width="50%">
+  <img src="https://cdn-icons-png.flaticon.com/512/3976/3976645.png" width="80"><br/>
+  <b>📚 Técnico em Finanças</b><br/>
+  <sub>ETEC Professor Camargo Aranha</sub><br/>
+  <sub>💼 Base sólida em gestão financeira</sub>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulazzuri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&card_width=800&hide=html,css,objective-c++,ruby&exclude_repo=repo1,repo2)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## ⏱️ Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gulazzuri&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=6" width="50%"/>
 
 </div>
 
@@ -152,6 +172,20 @@ Sou um **desenvolvedor FullStack** especializado em criar soluções inovadoras 
 
 ---
 
+## 🌍 Visitantes do Perfil
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=Gulazzuri&icon=5&color=6" alt="Visit Counter" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gulazzuri&label=Visualizações%20do%20Perfil&color=00D9FF&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -183,6 +217,51 @@ Sou um **desenvolvedor FullStack** especializado em criar soluções inovadoras 
 <br/>
 
 ### 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<br/>
+
+---
+
+## 🎯 Fun Facts & Quick Stats
+
+<div align="center">
+
+```javascript
+const gustavo = {
+    name: 'Gustavo Ramires Lazzuri',
+    location: 'São Paulo, Brasil 🇧🇷',
+    education: {
+        superior: 'Análise e Desenvolvimento de Sistemas - FIAP',
+        tecnico: 'Finanças - ETEC Professor Camargo Aranha'
+    },
+    code: ['JavaScript', 'TypeScript', 'Python', 'C#', 'Java'],
+    technologies: {
+        frontEnd: {
+            frameworks: ['React', 'Next.js', 'Blazor'],
+            styling: ['CSS3', 'TailwindCSS', 'Styled Components']
+        },
+        backEnd: {
+            runtime: ['Node.js', '.NET Core', 'Python'],
+            frameworks: ['Express', 'FastAPI', 'ASP.NET']
+        },
+        ai_ml: {
+            frameworks: ['TensorFlow', 'PyTorch', 'Scikit-Learn'],
+            areas: ['Computer Vision', 'Deep Learning', 'Neural Networks']
+        },
+        databases: ['MongoDB', 'SQL Server', 'PostgreSQL', 'MySQL'],
+        cloud: ['Azure', 'AWS'],
+        tools: ['Git', 'Docker', 'VS Code', 'Postman']
+    },
+    currentFocus: 'Building AI-powered applications 🤖',
+    hobbies: ['Coding 💻', 'Learning new tech 📚', 'Open Source 🌟'],
+    funFact: 'Transformo café em código desde 2020! ☕➡️💻',
+    lifePhilosophy: 'Never stop learning, never stop building! 🚀'
+};
+
+console.log(gustavo.currentFocus); // "Building AI-powered applications 🤖"
+```
+
+</div>
 
 <br/>
 
